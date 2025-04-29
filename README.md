@@ -59,8 +59,6 @@ npm start
 ```
 
 
----
-
 ##  Testing Instructions
 
 Currently, there are no automated tests configured for this project. Future updates will include testing frameworks and coverage reports.
@@ -80,7 +78,7 @@ The application requires the following environment variables:
 
 Ensure these are set in the `.env.local` file before running the application.
 
----
+
 
 ##  API Setup
 
@@ -94,19 +92,15 @@ If the application integrates with external APIs, obtain the necessary API keys 
 - Custom hooks can be found in the `hooks` directory.
 - Utility functions and libraries are stored in the `lib` directory.
 
----
+
 
 ##  Screenshots
 
 
----
 
 ##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-For any questions or feedback, please open an issue or contact the repository owner.
 
---- 
