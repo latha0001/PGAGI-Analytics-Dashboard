@@ -92,4 +92,9 @@ PGAGI-Analytics-Dashboard/
 └── ...                 # Other configuration and setup files
 ```
 
+![Screenshot 2025-06-04 152332](https://github.com/user-attachments/assets/c52b0a07-9d53-42a6-99b7-87702ba2a57a)
+![Screenshot 2025-06-04 152345](https://github.com/user-attachments/assets/b249c591-5a43-452f-a482-c82149169a3b)
+![Screenshot 2025-06-04 152359](https://github.com/user-attachments/assets/686c2a9d-2e0e-4350-a8a0-de09072e1fdf)
+![Screenshot 2025-06-04 152411](https://github.com/user-attachments/assets/c2bcabe6-5512-4401-a25f-80a1054a1b65)
+![Screenshot 2025-06-04 152426](https://github.com/user-attachments/assets/d57ba455-0aee-482a-9990-60db7c13b7eb)
 
